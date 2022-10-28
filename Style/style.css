@@ -1,0 +1,54 @@
+body{
+    background-color: #D9D9D9;
+}
+main{
+    margin: 25px 50px 75px 100px;
+    height: fit-content;
+    text-align: center;
+    width: 800;
+    margin: 0 auto;
+    padding:3em ;
+    background-color: #EEC3A5
+
+}
+header{
+    font-size: 3em;
+    letter-spacing: 3px;
+    font-family:Jacques Francois
+}
+h3{
+    font-family:Jacques Francois     
+}
+img{
+    width: 999px; 
+    height: 600px; 
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    background-color: #D9D9D9;
+}
+li{
+    padding: 10px 20px;
+    list-style-type: none;
+    display: inline-block;
+    background-color: blanchedalmond;
+}
+.active{
+    padding: 10px 9px ;
+    font-weight: bold;
+    background-color: #c3eab0;
+}
+p{
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left; 
+    font-size: 1em;
+    letter-spacing: 3px; 
+    font-family: Inter;  
+}
+
+
+
